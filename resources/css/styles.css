@@ -1,0 +1,50 @@
+body {
+  background-color: grey;
+  font-family: arial;
+}
+
+p {
+  font-weight: lighter;
+  font-style: italic;
+  padding-top: 2px;
+
+}
+
+li {
+    font-weight: bold;
+}
+
+ol {
+  margin:5px;
+}
+
+h1{
+  padding-left: 10px;
+  text-decoration: underline;
+  margin-bottom: 5px;
+}
+
+.cat {
+  font-family: helvetica;
+  font-size: 12px;
+  font-weight: lighter;
+  font-style: italic;
+  background-color: darkcyan;
+  border-style: solid;
+  border-color: white;
+}
+
+.dog{
+  font-family: helvetica;
+  font-style: italic;
+  font-weight: lighter;
+  font-size: 12px;
+  background-color: crimson;
+  border-style: solid;
+  border-color:white;
+}
+
+.secondDiv{
+  background-color: orange;
+  padding: 50px 25px 10px 5px;
+}
