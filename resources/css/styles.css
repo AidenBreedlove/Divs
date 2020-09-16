@@ -7,7 +7,7 @@ p {
   font-weight: lighter;
   font-style: italic;
   padding-top: 2px;
-
+  padding-left: 75px;
 }
 
 li {
@@ -47,4 +47,14 @@ h1{
 .secondDiv{
   background-color: orange;
   padding: 50px 25px 10px 5px;
+}
+
+img{
+  float:left;
+  height: 50px;
+  width: 50px;
+}
+
+h3{
+  padding-left: 60px;
 }
