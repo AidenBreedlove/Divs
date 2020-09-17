@@ -7,7 +7,9 @@ p {
   font-weight: lighter;
   font-style: italic;
   padding-top: 2px;
-  padding-left: 75px;
+  padding-left: 30px;
+  padding-bottom: 2px;
+  margin-top: 2px;
 }
 
 li {
@@ -53,8 +55,12 @@ img{
   float:left;
   height: 50px;
   width: 50px;
+  margin-left:0px;
 }
 
 h3{
   padding-left: 60px;
+  padding-bottom: 2px;
+  margin-top: 2px;
+  margin-bottom: 2px;
 }
